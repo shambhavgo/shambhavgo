@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shambhav Goswami</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Currently Pursuing B.Tech in Electronics and Instrumentation Engineering (Final Year) from Indian Institute of Technology (ISM) Dhanbad, India</h3>
+</p>
+<h3 align="center">Possess profound interest in the domains of Software Development, Machine Learning/AI, Data Science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shambhavgo&label=Profile%20views&color=0e75b6&style=flat" alt="shambhavgo" /> </p>
 
