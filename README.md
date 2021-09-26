@@ -25,12 +25,12 @@
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>   
 
 
-<h3 align="Centre">Connect with me:</h3>
-<p align="Centre">
+<h3 align="centre">Connect with me:</h3>
+<p align="centre">
 <a href="https://linkedin.com/in/shambhav_go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shambhav_go" height="30" width="40" /></a>
 <a href="https://instagram.com/shambhav_go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shambhav_go" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shambhav_go" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shambhav_go" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shambhav_go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shambhav_go" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/giantnoobda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giantnoobda" height="30" width="40" /></a>
 </p>
-<p align="Centre"> <img src="https://komarev.com/ghpvc/?username=shambhavgo&label=Profile%20views&color=0e75b6&style=flat" alt="shambhavgo" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=shambhavgo&label=Profile%20views&color=0e75b6&style=flat" alt="shambhavgo" /> </p>
