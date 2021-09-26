@@ -34,4 +34,4 @@
 <a href="https://www.leetcode.com/giantnoobda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giantnoobda" height="30" width="40" /></a>
 </p>
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=shambhavgo&label=Profile%20views&color=0e75b6&style=flat" alt="shambhavgo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kvs2000&label=Profile%20views&color=078834&style=plastic" alt="shambhavgo" /> </p>
