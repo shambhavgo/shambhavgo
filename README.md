@@ -2,8 +2,7 @@
 <h3 align="center">Currently Pursuing B.Tech in Electronics and Instrumentation Engineering (Final Year) from Indian Institute of Technology (ISM) Dhanbad, India</h3>
 </p>
 <h3 align="center">Possess profound interest in the domains of Software Development, Machine Learning/AI, Data Science.</h3>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavgo&theme=dark" alt="shambhavgo" width="400" height="200"/><img align="left" src="https://github-readme-stats.vercel.app/api?username=shambhavgo&show_icons=true&theme=merko&locale=en" alt="shambhavgo" width="400" height="200" /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shambhavgo&show_icons=true&theme=merko&locale=en" alt="shambhavgo" width="400" height="200" />
 <h3 align="left">Languages:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="left">AI/ML:</h3>
@@ -11,7 +10,7 @@
 <h3 align="left">Framework:</h3>
 <p align="left"><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.logolynx.com/images/logolynx/00/00429ca224699ddf60ce05b46ef08709.jpeg" alt="flask" width="40" height="40"/> </a>  </p>
 <h3 align="left">Database:</h3>
-<p align="left">
+<p align="left"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavgo&theme=dark" alt="shambhavgo" width="400" height="200"/>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 <h3 align="left">BaaS:</h3>
 <p align="left"><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></p>
