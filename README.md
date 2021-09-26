@@ -5,7 +5,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shambhavgo&show_icons=true&theme=merko&locale=en" alt="shambhavgo" width="400" height="200" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavgo&theme=dark" alt="kvs2000" width="400" height="250"/>
-</p><br /><br /><br /><br /><br />
+</p><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <h3 align="left">Languages:</h3>
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
