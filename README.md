@@ -17,6 +17,12 @@
 <h3 align="left">Software:</h3>
 <p align="left"><a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 <h3 align="left">Devops:</h3>
+
+<h3 align="left">Others:</h3>
+<p align="left">
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>   
+
+
 <p align="left"><h5 align="center">Connect with me:</h5>
 <p align="center">
 <a href="https://linkedin.com/in/shambhav_go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shambhav_go" height="30" width="40" /></a>
@@ -25,11 +31,5 @@
 <a href="https://www.hackerrank.com/shambhav_go" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shambhav_go" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/giantnoobda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="giantnoobda" height="30" width="40" /></a>
 </p><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a></p>
-<h3 align="left">Others:</h3>
-<p align="left">
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></p>   
-
-
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kvs2000&label=Profile%20views&color=078834&style=plastic" alt="shambhavgo" /> </p>
