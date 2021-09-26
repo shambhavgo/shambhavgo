@@ -3,8 +3,7 @@
 </p>
 <h3 align="center">Possess profound interest in the domains of Software Development, Machine Learning/AI, Data Science.</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shambhavgo&show_icons=true&theme=merko&locale=en" alt="shambhavgo" width="400" height="200" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavgo&theme=dark" alt="kvs2000" width="400" height="250"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shambhavgo&show_icons=true&theme=merko&locale=en" alt="shambhavgo" width="400" height="200" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shambhavgo&theme=dark" alt="kvs2000" width="400" height="250"/>
 </p><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <h3 align="left">Languages:</h3>
